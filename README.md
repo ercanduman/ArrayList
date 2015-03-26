@@ -23,4 +23,13 @@ Bu yöntem, " Delete * From Musteriler where MusteriNo = ? " kodu ile müşteri 
 
 Saygılarımla,
 
+
+
 Ercan Duman
+
+Computer Engineer
+
+blog.ercanduman.com , www.ercanduman.com
+
+ercanduman30@gmail.com
+
